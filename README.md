@@ -1,5 +1,5 @@
-# chat_excersize
-A simple terminal chat server and client excersize for AnyVision
+# chat_exercise
+A simple terminal chat server and client exercise for AnyVision
 
 HOW TO RUN:
 
