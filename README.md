@@ -2,6 +2,7 @@
 A simple terminal chat server and client excersize for AnyVision
 
 HOW TO RUN:
+
 run server.
 
 run client.
